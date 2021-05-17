@@ -1,10 +1,6 @@
 # pen-tool
 
-English | [简体中文](./README-zh.md)
-
 ## Overview
-
-![](./static/example.png)
 
 
 This project is a canvas-based path drawing tool.
